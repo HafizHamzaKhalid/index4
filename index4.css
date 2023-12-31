@@ -1,0 +1,13 @@
+.container{
+    background-color: rgb(186 186 213);
+    border: 3px solid rgb(97, 38, 38);
+    padding-left: 34px;
+    margin-right: 34px;
+    border-radius: 29px;
+    width:233px ;
+    margin: 34px;
+    box-sizing: border-box;
+}
+body{
+    background-color: cyan;
+}
